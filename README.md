@@ -22,31 +22,31 @@ This project demonstrates how to design a stunning half-and-half scrolling layou
 # Preview
 <span>Half-and-Half Scrolling</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/218273399/Half-and-Half-Scrolling-Layout" target="_blank">
 <img style="width:350px;" src="./img/landingPage.gif" alt="" /></a>
 <br/>
 <span>Half-and-Half Scrolling Start & End Point </span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/218273399/Half-and-Half-Scrolling-Layout" target="_blank">
 <img style="width:350px;" src="./img/landingPage.png" alt="" />
 </a>
 <br/>
-<span>Mastering Card Stacking UI UX Layout</span>
+<span>Half-and-Half Scrolling UI UX Layout Start & End Point</span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/218273399/Half-and-Half-Scrolling-Layout" target="_blank">
 <img style="width:350px;" src="./img/landingPageUIUXLayout.gif" alt="" />
 </a>
 
 <br />
-<span>Mastering Card Stacking UI UX Layout</span>
+<span>Half-and-Half Scrolling UI UX Layout</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/218273399/Half-and-Half-Scrolling-Layout" target="_blank">
 <img style="width:350px;" src="./img/landingPageUIUXLayout.png" alt="" />
 </a>
 <br/>
 <span>Cover</span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/218273399/Half-and-Half-Scrolling-Layout" target="_blank">
 <img style="width:350px;" src="./img/cover.png" alt="" />
 </a>
 <br />
